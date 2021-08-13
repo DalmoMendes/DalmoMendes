@@ -1,8 +1,8 @@
 # 👋 Hi, I’m @DalmoMendes
 - 👀 Tenho interesse em tecnologias para web como :elephant: Php e :snake: Python.
 - :mortar_board: Bacharel em Sistemas de Informação; Pós em Segurança de Redes de Computadores; Complementação Pedagágica em Computação e Docência do Ensino Superior.
-- 🌱 Atualmente estou estudando Pós em Engenharia de Software.
-- 💞️ Tenho experiências como professor de informática e estou colaborando com produção de materiais de ensino. 
+- 🌱 Atualmente, estudando Pós em Engenharia de Software.
+- 💞️ Tenho experiências como professor de informática (Ensino Médio/Técnico/Superior) e estou colaborando com produção de materiais de ensino. 
 - 📫 Contato de Email: dalmosilvamendes@gmail.com e Site: https://ceproirr.com.br.
 
 - <h2> :coffee: Outros Links</h2>
