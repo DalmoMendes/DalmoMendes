@@ -8,7 +8,7 @@
 - <h2> :coffee: Outros Links</h2>
 
 <b>Agência Web:</b> https://www.ceproirr.com.br/webagency <br>
-<b>Facebook:</b> https://facebook.com/dalmo.silvamendes <br>
-<b>Instagram:</b> https://instagram.com/dalmosilvamendes <br>
-<b>Twitter:</b> https://twitter.com/dalmomendes <br>
+<b>Facebook:</b> https://facebook.com/ceproirr <br>
+<b>Instagram:</b> https://instagram.com/ceproirr <br>
+<b>Twitter:</b> https://twitter.com/ceproirr <br>
 <b>Youtube: </b> https://www.youtube.com/channel/UC9egIn_Xkg2KFD_55mi_r8w <br>
