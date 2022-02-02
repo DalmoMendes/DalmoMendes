@@ -44,6 +44,17 @@
 <img align="center" alt="Dalmo Mendes - Angular!" height="35" width="100" style="border-radius:50%" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
                                                                      
 <img align="center" alt="Dalmo Mendes - JS!" height="35" width="100" style="border-radius:50%" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-                                                                      
+</div>
+<br>
+<div align="center">
+<h2>Colocando em prática as 04 liberdades</h2>
+<p>
+A liberdade de executar;<br>
+A liberdade de estudar;<br>
+A liberdade de redistribuir;<br>
+A liberdade de modificar;<br>
+</p>
+<br>
+<img align="center" alt="Linux!" height="150" width="200" style="border-radius:50%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">  
 </div>
    
