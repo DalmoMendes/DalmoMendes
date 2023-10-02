@@ -31,19 +31,19 @@
 </div>
 <h2 align="center"> :books: Tecnologias e Linguagens :hammer: </h2>
 <div align="center">
-<img align="center" alt="Dalmo Mendes - Linux!" height="35" width="100" style="border-radius:50%" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+<img align="center" alt="Dalmo Mendes - Linux!" height="35" width="100" style="border-radius:50%" src="#">
   
-<img align="center" alt="Dalmo Mendes - Windows!" height="35" width="100" style="border-radius:50%" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+<img align="center" alt="Dalmo Mendes - Windows!" height="35" width="100" style="border-radius:50%" src="#">
   
-<img align="center" alt="Dalmo Mendes - PHP!" height="35" width="100" style="border-radius:50%" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+<img align="center" alt="Dalmo Mendes - PHP!" height="35" width="100" style="border-radius:50%" src="#">
                                                                      
-<img align="center" alt="Dalmo Mendes - JAVA!" height="35" width="100" style="border-radius:50%" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+<img align="center" alt="Dalmo Mendes - JAVA!" height="35" width="100" style="border-radius:50%" src="#">
  
-<img align="center" alt="Dalmo Mendes - Spring Boot!" height="35" width="100" style="border-radius:50%" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<img align="center" alt="Dalmo Mendes - Spring Boot!" height="35" width="100" style="border-radius:50%" src="#">
 
-<img align="center" alt="Dalmo Mendes - Angular!" height="35" width="100" style="border-radius:50%" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+<img align="center" alt="Dalmo Mendes - Angular!" height="35" width="100" style="border-radius:50%" src="#">
                                                                      
-<img align="center" alt="Dalmo Mendes - JS!" height="35" width="100" style="border-radius:50%" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img align="center" alt="Dalmo Mendes - JS!" height="35" width="100" style="border-radius:50%" src="#">
 </div>
 <br>
 <div align="center">
